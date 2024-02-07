@@ -1,7 +1,8 @@
 import Image from "next/image";
 
 export default function Home() {
-  return (<>
+  return (
+    <>
    <h1>I am <b>Bright Esosa Ogiesoba</b></h1>
    <p>I am a Programmer who loves coding</p>
    <p>I love drinking H<sub>2</sub>O and there is usually a bottle of H<sub>2</sub>O on my desk anytime ni'm coing.  [O<sup>2</sup> is also very compulsory in the life of any programmer]
@@ -17,7 +18,7 @@ export default function Home() {
     <p>One more thing, I <s>deleted</s> the app I created and started over from 
       comm. prompt up to three times before I could <b>Finally</b> get this done.
     </p>
-    <p>But it feels so good finally being able to do this.</p>
+    <p>But it feels so good finally being able to do this, thanks to our captain, miss Tosin.</p>
   </>
   );
 }
